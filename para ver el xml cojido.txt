@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>
+<![CDATA[
+Portada de EL PAÍS
+]]>
+</title>
+<link>
+<![CDATA[
+https://elpais.com/rss/elpais/portada.xml
+]]>
+</link>
+<description>
+<![CDATA[
+Portada de EL PAÍS
+]]>
+</description>
+<lastBuildDate>Thu, 23 Nov 2017 18:52:40 +0100</lastBuildDate>
+<pubDate>Thu, 23 Nov 2017 18:52:40 +0100</pubDate>
+<language>es</language>
+<copyright>
+<![CDATA[
+Copyright 2017, Ediciones EL PAÍS
+]]>
+</copyright>
+<ttl>5</ttl>
+<image>
+<url>https://ep00.epimg.net/iconos/v1.x/v1.0/logos/cabecera_portada.png</url>
+<title>Logotipo de EL PAÍS</title>
+<link>https://elpais.com/</link>
+</image>
+<item>
+<title>
+<![CDATA[
+La Armada argentina confirma que hubo una explosión en la zona donde desapareció el submarino
+]]>
+</title>
+<link>
+<![CDATA[
+https://elpais.com/internacional/2017/11/23/actualidad/1511447935_134725.html#?ref=rss&format=simple&link=link
+]]>
+</link>
+<guid isPermaLink="true">
+<![CDATA[
+https://elpais.com/internacional/2017/11/23/actualidad/1511447935_134725.html#?ref=rss&format=simple&link=guid
+]]>
+</guid>
+<dc:creator>
+<![CDATA[
+Carlos E. Cué, Mar Centenera
+]]>
+</dc:creator>
+<description>
+<![CDATA[
+El portavoz de la fuerza ha descrito la explosión oída como "anormal, única, corta, violenta y no nuclear"
+]]>
+</description>
+<pubDate>
+<![CDATA[
+Thu, 23 Nov 2017 18:51:10 +0100
+]]>
+</pubDate>
+<category>
+<![CDATA[
+Argentina
+]]>
+</category>
+<category>
+<![CDATA[
+Submarinos
+]]>
+</category>
+<category>
+<![CDATA[
+Transporte militar
+]]>
+</category>
+<category>
+<![CDATA[
+Armamento
+]]>
+</category>
+<category>
+<![CDATA[
+Sudamérica
+]]>
+</category>
+<category>
+<![CDATA[
+Latinoamérica
+]]>
+</category>
+<category>
+<![CDATA[
+Defensa
+]]>
+</category>
+<category>
+<![CDATA[
+América
+]]>
+</category>
+<content:encoded>
+<![CDATA[
+<p><a href="https://elpais.com/internacional/2017/11/22/argentina/1511381158_982132.html" target="_blank">El pesimismo ya se había extendido por el paso del tiempo</a>, pero ahora además hay una información definitiva que difumina toda esperanza de encontrar con vida a los 44 tripulantes del <a href="https://elpais.com/tag/argentina/a" target="_blank"><em>ARA San Juan.</em></a> La <a href="http://www.ara.mil.ar/" target="_blank">Armada argentina</a> confirmó hoy, a través de dos fuentes diferentes, los expertos en EE UU y una agencia de la ONU que investiga la realización de pruebas nucleares, que hubo una explosión en la zona en la que desapareció el submarino el pasado miércoles. Todo indica que fue la nave perdida la que explotó ese día. Eso explicaría que no utilizara ninguno de los mecanismos de emergencia que tenía a su disposición. Según la Armada, podría tratarse de una implosión, y por eso tendría sentido que en todo este tiempo no haya aparecido ningún trozo del submarino pese al enorme dispositivo aéreo y marítimo desplegado.</p><p><a href="https://elpais.com/internacional/2017/11/23/actualidad/1511447935_134725.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>
+]]>
+</content:encoded>
+<enclosure type="image/jpeg" url="https://ep00.epimg.net/internacional/imagenes/2017/11/23/actualidad/1511447935_134725_1511448004_miniatura_normal.jpg" length="21834"/>
+<enclosure type="image/jpeg" url="https://ep00.epimg.net/internacional/imagenes/2017/11/23/actualidad/1511447935_134725_1511451884_noticia_normal.jpg" length="78966"/>
+<comments>
+<![CDATA[
+http://eskup.elpais.com/C1511447935-340bf9d9c31f645a24c79115b1bf1fb0
+]]>
+</comments>
+<enclosure type="video/m4v" url="https://vdmedia.elpais.com/elpaistop/multimedia/201711/23/20171123184348984_1511459126_video_1200.mp4"/>
+</item>
+<item>
+<title>
+<![CDATA[
+La defensa de los miembros de La Manada retira del caso el informe de los detectives
+]]>
+</title>
+<link>
+<![CDATA[
+https://elpais.com/politica/2017/11/23/actualidad/1511427184_053171.html#?ref=rss&format=simple&link=link
+]]>
+</link>
+<guid isPermaLink="true">
+<![CDATA[
+https://elpais.com/politica/2017/11/23/actualidad/1511427184_053171.html#?ref=rss&format=simple&link=guid
+]]>
+</guid>
+<dc:creator>
+<![CDATA[
+Javier Doria
+]]>
+</dc:creator>
+<description>
+<![CDATA[
+La víctima de la supuesta violación múltiple de San Fermín le dijo a un amigo que se iba a dormir al coche minutos antes de la presunta violación
+]]>
